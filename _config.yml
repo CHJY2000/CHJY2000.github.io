@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jiayi Chang 常佳艺"
+  avatar           : "avatar.png"
+  name             : "Jiayi Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "常佳艺<br>Research Intern @ UNDP"
   location         : "New York City"
-  employer         : "UNDP"
+  employer         : "United Nations"
   uri              : "https://www.HereisCHJY.blog/"
-  email            : "mailto:jychang@pku.edu.cn" 
+  email            : "jychang@pku.edu.cn"
 
   # Academic websites
   #academia         : # URL
@@ -122,7 +122,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true    # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
