@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "CHJY's Academic Homepage"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "CHJY's Homepage"
 title_separator          : "-"
 name                     : &name "Jiayi Chang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "avatar.png"
   name             : "Jiayi Chang"
   pronouns         : # example: "she/her"  
-  bio              : "常佳艺<br>Research Intern @ UNDP"
+  bio              : "常佳艺<br>Research Intern @UNDP"
   location         : "New York City"
   employer         : "United Nations"
-  uri              : "https://www.HereisCHJY.blog/"
   email            : "jychang@pku.edu.cn"
+  uri              : "https://www.HereisCHJY.blog/"
 
   # Academic websites
   #academia         : # URL
