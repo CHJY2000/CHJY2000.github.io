@@ -24,7 +24,7 @@ I am a passion-driven Japanese translator, and my first translation work, *[The 
 
 ### 📷 Photography
 
-I like taking photos to refresh myself and appreciate the beauty of the world.
+I am a recreational photographer, and capturing the beauty of the world always refreshes me.
 
 You can find more photos on my [personal website](https://www.hereischjy.blog/Photography/EN/)!
 
