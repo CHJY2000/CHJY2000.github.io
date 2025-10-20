@@ -29,10 +29,10 @@ I like taking photos to refresh myself and appreciate the beauty of the world.
 <div style="display: flex; justify-content: left; align-items: left; gap: 20px;">
   <img src="https://s2.loli.net/2025/08/14/xZUN97XDWofYkMv.jpg" 
        alt="Weiming Lake" 
-       style="width:50%; height:auto;"> 
+       style="width:40%; height:auto;"> 
   <img src="https://s2.loli.net/2025/09/27/ZFNxtVyW6SgBwb5.jpg" 
        alt="Peking University" 
-       style="width:40%; height:auto;">
+       style="width:30%; height:auto;">
 </div>
 
 ---
