@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +10,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, Peking University, 2022
+
+* Sep 2022 - Jul 2025: M.A. in International Politics, School of International Studies, Peking University
+* Sep 2024 - Jan 2025: Exchange Student, School of International Studies, Seoul National University
+* Oct 2023 - Aug 2024: M.A. (Double Degree) in Public Policy, Graduate School of Public Policy, The University of Tokyo
+
+* Sep 2018 - Jul 2022: B.A. in International Politics, School of International Studies, Peking University
+* Sep 2019 - Jul 2022: B.A. (Double Degree) in Economics, National School of Development, Peking University
 
 Work experience
 ======

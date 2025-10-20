@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Outside of my academic life, I enjoy translation, photography, learning new languages, reading mystery novels, and watching figure skating competitions.
+Outside of my academic life, I enjoy translation, photography, learning new languages, reading detective novels, and watching figure skating competitions. (My favorite skates are [Chaeyeon KIM](https://isu-skating.com/figure-skating/skaters/chaeyeon-kim/), [Rika KIHIRA](https://isu-skating.com/figure-skating/skaters/Rika-KIHIRA/)  and [Yi ZHU](https://isu-skating.com/figure-skating/skaters/yi-zhu/).)
 
 Contact: jychang [at] pku [dot] edu [dot] cn
 
