@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-A full version of my latest CV can be found [here](https://CHJY2000.com/Files/Jiayi_Chang_Curriculum_Vitae.pdf)
+A full version of my latest CV can be found [here](https://CHJY2000.com/files/Jiayi_Chang_Curriculum_Vitae.pdf)
 
 ## Education
 
