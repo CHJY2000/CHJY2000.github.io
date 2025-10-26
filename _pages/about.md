@@ -11,6 +11,7 @@ redirect_from:
     text-align: justify;
     text-justify: inter-word;
     line-height: 1.5;
+    font-size: 12px;
   }
 </style>
 
