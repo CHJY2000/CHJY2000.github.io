@@ -3,11 +3,7 @@ layout: archive
 permalink: /misc/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-Outside of my academic life, I enjoy translating, photography, learning new languages, reading detective novels, and watching figure skating competitions.
+Outside of my academic life, I enjoy translation, photography, learning new languages, reading detective novels, and watching figure skating competitions.
 
 ---
 
@@ -23,9 +19,9 @@ I am a passion-driven Japanese translator, and my first translation work, *[The 
 ---
 ### 🌏 Language Learning
 
-I speak Chinese, English, Japanese, and Korean fluently, and I’m beginner in Spanish.
+I speak Chinese, English, Japanese, and Korean fluently, and I’m a beginner in Spanish.
 
-I enjoy learning new languages, and I also aim to help others master them more effectively through [Anki](https://apps.ankiweb.net/). I’ve shared several memorization [decks](https://ankiweb.net/shared/info/1498351139) for English learners, and I’m currently developing decks based on the [*Sino-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
+I love learning new languages, and also aim to help others master them more effectively through [Anki](https://apps.ankiweb.net/). I’ve shared several memorization [decks](https://ankiweb.net/shared/info/1498351139) for English learners, and I’m currently developing decks based on the [*Sino-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
 
 ---
 
@@ -33,7 +29,7 @@ I enjoy learning new languages, and I also aim to help others master them more e
 
 I am a recreational photographer, and capturing the beauty of the world always refreshes me.
 
-You can find more photos on my [personal website](https://www.hereischjy.blog/Photography/EN/)!
+You can find more of my photos on my [personal website](https://www.hereischjy.blog/Photography/EN/)!
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://s2.loli.net/2025/08/14/xZUN97XDWofYkMv.jpg" 
@@ -48,7 +44,7 @@ You can find more photos on my [personal website](https://www.hereischjy.blog/Ph
 
 ### ⛸️ Figure Skating
 
-I love watching figure skating competitions and capturing the skaters’ most impressive moments.
+I love watching figure skating competitions and capturing skaters’ most breathtaking moments.
 
 My favorite skates are [Chaeyeon KIM](https://isu-skating.com/figure-skating/skaters/chaeyeon-kim/), [Rika KIHIRA](https://isu-skating.com/figure-skating/skaters/Rika-KIHIRA/) and [Yi ZHU](https://isu-skating.com/figure-skating/skaters/yi-zhu/).
 

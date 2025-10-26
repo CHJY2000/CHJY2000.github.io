@@ -85,8 +85,8 @@ author_profile: true
   - 3.2 Performing Maternal Care: *Senninbari* (천인침), Comfort Bags, and Rituals of Sending Off and Welcoming Soldiers
 - Chapter Four: Passive Mobilization: Ethnic Nationalism and the Exclusion of Colonial Motherhood
   - 4.1 The Biopoliticization of Women’s Bodies and Pro-Natalist Policies
-  - 4.2 From “Female Miners” to “Comfort Women”: The Dispossession of Korean Women’s Maternal Agency
-  - 4.3 Bloodline as Boundary: Excluding Korean Women from the Category of “Mothers of the Nation”
+  - 4.2 From “Female Miners” to “Comfort Women”: The Dispossession of Colonial Women’s Maternal Agency
+  - 4.3 Bloodline as Boundary: Excluding Colonial Women from the Category of “Mothers of the Nation”
 - Conclusion
 </div>
 </details>
