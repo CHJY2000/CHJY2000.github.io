@@ -26,7 +26,6 @@ A full version of my latest CV can be found [here](https://CHJY2000.com/files/Ji
 * Oct. 2022 – Jul. 2023: Student Assistant, **Peking University Analytics Laboratory for Global Risk Politics**
   * Advisor: Prof. Xun Pang
 
-
 ## Skills
 * **Languages:**
   * *Native:* Mandarin Chinese

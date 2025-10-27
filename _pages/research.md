@@ -11,7 +11,6 @@ author_profile: true
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 14px;
   font-weight: 600;
 }
 
