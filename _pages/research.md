@@ -39,7 +39,8 @@ author_profile: true
   padding: 10px 0 0 30px;
   color: #333;
   font-family: Georgia, serif;
-  line-height: 1.7;
+  line-height: 1.6;
+  text-align: justify;
 }
 
 </style>
@@ -55,13 +56,13 @@ author_profile: true
     </summary>
     <div class="paper-body">
       <p>
-        ABSTRACT: The role of women in wartime mobilization raises a number of important questions about historical agency in colonial Korea. Considerable research has been conducted on the "comfort women" system and forced labor, yet relatively little attention has been paid to the mobilization of women on the home front, and their specific roles within wartime society. 
+        The end of the Cold War has enabled East Asia to critically reassess the enduring scars and legacies of Japanese colonialism. Considerable research has been conducted on the "comfort women" system and forced labor, yet relatively little attention has been paid to the mobilization of women on the home front, and their specific roles within wartime society.
         <br><br>
-        This study focuses on the concept of motherhood, analyzing how the Japanese Empire, between 1937 and 1945, mobilized maternal roles of Korean women through policy and propaganda. It investigates how colonial authorities redefined normative expectations of motherhood to transform Korean women into "imperial subjects,"imperialization (kôminka) integrating their maternal functions into both the total war system and the imperial project.
+
+        This study focuses on the wartime mobilization of motherhood in colonial Korea, analyzing how the Japanese Empire, between 1937 and 1945, redefined and mobilized the maternal roles of Korean women through policy and propaganda. Drawing on wartime newspapers and magazines, it investigates how colonial authorities reshaped normative expectations of motherhood, integrating women’s maternal functions into both the total war system and the imperialization movement (kōminka).
         <br><br>
-        The paper addresses four central questions: First, what ideals of motherhood were constructed by the Japanese Empire and colonial authorities under the total war regime? Second, through what institutional mechanisms did authorities discipline women' s bodies, emotions, and daily behaviors to reshape maternal norms? Third, how was this redefined concept of motherhood instrumentalized to serve the dual goals of both colonial governance and wartime mobilization? Finally, how did the Empire simultaneously integrate colonial Korean women into the category of "Japanese nationals" while strictly maintaining their segregation from "mainland Japanese" ?
-        <br><br>
-        This study argues that mobilization of motherhood under the total war regime took three primary forms. First, through the promotion of the "militarist mother" ideal, the state recast the mother - son relationship in terms of sacrifice and patriotic duty. Second, it expanded the boundaries of motherhood beyond the family and blood relations, imbuing maternal labor with public and national significance. Third, while using motherhood to incorporate Korean women into the imperial polity, the state simultaneously undermined its reproductive foundations. By denying Korean women the legitimacy to become mothers, it effectively excluded them from full national belonging. This simultaneous logic of incorporation and exclusion defined the entire process of maternal mobilization and the contested nationalization of Korean women under Japanese rule.
+
+        This paper was awarded <i>Outstanding Master’s Thesis</i> by the School of International Studies, Peking University.
       </p>
     </div>
   </details>

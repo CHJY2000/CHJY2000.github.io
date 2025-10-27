@@ -21,7 +21,7 @@ I am a passion-driven Japanese translator, and my first translation work, *[The 
 
 I speak Chinese, English, Japanese, and Korean fluently, and I’m a beginner in Spanish.
 
-I love learning new languages, and also aim to help others master them more effectively through [Anki](https://apps.ankiweb.net/). I’ve shared several memorization [decks](https://ankiweb.net/shared/info/1498351139) for English learners, and I’m currently developing decks based on the [*Sino-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
+I love learning new languages, and also aim to help others master them more effectively through [Anki](https://apps.ankiweb.net/). I’ve shared several memorization [decks](https://ankiweb.net/shared/info/1498351139) for English learners, and I’m currently developing decks based on the [*Chinese-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
 
 ---
 
