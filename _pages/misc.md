@@ -3,12 +3,13 @@ layout: archive
 permalink: /misc/
 author_profile: true
 ---
-Outside of my academic life, I enjoy translation, photography, learning new languages, reading detective novels, and watching figure skating competitions.
+
+Outside of my academic life, I enjoy hiking, translation, photography, language learning, reading detective novels, and watching figure skating competitions.
 
 ---
 
 ### ✏️ Translation
-I am a passion-driven Japanese translator, and my first translation work, *[The Eternity Mansion Murders](https://book.douban.com/subject/37436578/)*, is scheduled to be published at the end of 2025.
+I am a passion-driven Japanese translator, and my first work, *[The Eternity Mansion Murders](https://book.douban.com/subject/37436578/)*, was published in Mainland China in November, 2025.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://m.media-amazon.com/images/I/71L3FMRXePL._SL1423_.jpg" 
