@@ -19,17 +19,17 @@ I am a passion-driven Japanese translator, and my first translation work, *[The 
 ---
 ### 🌏 Language Learning
 
-I speak Chinese, English, Japanese, and Korean fluently, and I’m a beginner in Spanish.
+I am a native speaker of Mandarin Chinese and fluent in English, Japanese, and Korean, with beginner-level proficiency in Spanish.
 
-I love learning new languages, and also aim to help others master them more effectively through [Anki](https://apps.ankiweb.net/). I’ve shared several memorization [decks](https://ankiweb.net/shared/info/1498351139) for English learners, and I’m currently developing decks based on the [*Chinese-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
+I enjoy learning and teaching languages, and I’m passionate about helping others study more effectively with [Anki](https://apps.ankiweb.net/). I’ve shared several vocabulary [decks](https://ankiweb.net/shared/info/1498351139) for English and Japanese learners, and I’m currently developing new ones based on the [*Chinese-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
 
 ---
 
 ### 📷 Photography
 
-I am a recreational photographer, and capturing the beauty of the world always refreshes me.
+I am a recreational photographer who finds joy in capturing the world’s beauty and diversity through my lens.
 
-You can find more of my photos on my [personal website](https://www.hereischjy.blog/Photography/EN/)!
+Discover more of my photos on my [personal website](https://www.hereischjy.blog/Photography/EN/)!
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://s2.loli.net/2025/08/14/xZUN97XDWofYkMv.jpg" 
