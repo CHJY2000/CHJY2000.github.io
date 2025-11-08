@@ -3,8 +3,7 @@ layout: archive
 permalink: /misc/
 author_profile: true
 ---
-
-Outside of my academic life, I enjoy hiking, translation, photography, language learning, reading detective novels, and watching figure skating competitions.
+Outside of my academic life, I enjoy hiking, photography, translation, language learning, reading detective novels, and watching figure skating competitions.
 
 ---
 
