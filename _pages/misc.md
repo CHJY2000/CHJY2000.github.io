@@ -23,7 +23,7 @@ I am a passion-driven Japanese translator, and my first work, *[The Eternity Man
 
 I am a native speaker of Mandarin Chinese and fluent in English, Japanese, and Korean, with beginner-level proficiency in Spanish.
 
-I enjoy learning and teaching languages, and I’m passionate about helping others study more effectively with [Anki](https://apps.ankiweb.net/). I’ve shared several vocabulary [decks](https://ankiweb.net/shared/info/1498351139) for English and Japanese learners, and I’m currently developing new ones based on the [*Chinese-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
+I enjoy learning and teaching languages, and I’m passionate about helping others study more effectively with [Anki](https://apps.ankiweb.net/). I’ve shared several [vocabulary decks](https://ankiweb.net/shared/info/1498351139) for English and Japanese learners, and I’m currently developing new ones based on the [*Chinese-Japanese-Korean Shared Character Dictionary*](https://www.tcs-asia.org/data/etcData/PUB_1655945242.pdf)!
 
 ---
 

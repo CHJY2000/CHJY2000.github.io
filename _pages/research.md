@@ -52,7 +52,7 @@ author_profile: true
   <details class="paper">
     <summary>
       <span class="chevron"></span>
-      <span class="paper-title">Integration and Segregation: Selective Mobilization of Motherhood in Colonial Korea (1937–1945)</span>
+      <span class="paper-title">Inclusion and Exclusion: Selective Mobilization of Motherhood in Colonial Korea, 1937-1945</span>
     </summary>
     <div class="paper-body">
       <p>
